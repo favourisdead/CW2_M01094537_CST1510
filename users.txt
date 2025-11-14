@@ -1,0 +1,3 @@
+sam,$2b$12$4tjRtA4pfrHn2s38fROpeu4JSDYjxImUU6E5/Wdf3A7DTlw2/K2Jm
+zion,$2b$12$kN8.ONQ/zTiJlh7WeRHdT.dYiI.QjGx3m94h.x6S7wcVMrvOBfbGW
+Anna,$2b$12$RBzCwYJi4hInL00O3MWDyOhrqMmywjGyCsdWcR1bCx.JkFpXJgkLW
